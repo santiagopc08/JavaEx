@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(multiply(5));
+        System.out.println(multiply(4));
     }
 
     public static int multiply(int n){
